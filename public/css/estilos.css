@@ -1,0 +1,28 @@
+#img1{
+	background: url('../img/img1.jpg');
+	height: 600px;
+	background-size: 100%;
+	padding-top: 150px;
+}
+#img-jb{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	background-color: rgba(255,255,255,0.6);
+}
+#txt1{
+	text-align: center;
+	background-color: #E5E5E5;
+	padding: 10PX;
+}
+#txt2{
+	text-align: center;
+}
+hr{
+	width: 30px;
+	border: solid 1px;
+}
+.img-carrera{
+	width: 50px !important;
+	height: 50px !important;
+}
